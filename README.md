@@ -26,6 +26,8 @@ graph TD
 | **Final (Noised/Shifted)** | **15개** | 91.20% | 92.15% | **92.68%** |
 | Team Testset | 10개 | 84.50% | 82.75% | 84.75% |
 | Original MNIST | 10개 | 95.26% | 96.27% | 96.50% |
+<img width="1633" height="656" alt="image" src="https://github.com/user-attachments/assets/68fb0dfc-1933-4c21-a9bf-e91f6f6c0b61" />
+<img width="1490" height="524" alt="image" src="https://github.com/user-attachments/assets/68ddb701-03e9-4eab-8e84-c1109abd3346" />
 
 - 실생활에서 발생할 수 있는 **노이즈 및 위치 변형** 환경에서도 **92.68%**의 안정적인 인식률을 확보했습니다.
 ---
