@@ -1,5 +1,5 @@
 # ✍️ [ML] Hand-made & Original MNIST Dataset Comparison & Optimization
-단순한 숫자 인식을 넘어 연산 기호를 포함한 15개 클래스에 대해,
+단순한 숫자 인식을 넘어 연산 기호를 포함한 15개 클래스에 대해,  
 **최종 92.68%** 의 인식 정확도를 달성한 프로젝트입니다.
 ---
 ## 🏗 아키텍처 (Architecture)
